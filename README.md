@@ -1,3 +1,8 @@
+# Description
+
+This is a project created to find the optimal policy of the cloud vm's activation using MDP(Markov decision processes).
+It implements 3 reinforcement learning algorithms: value_iteration, q_learning and sarsa.
+
 # User Guide
 
 Run next command to install dependencies in your environment:
@@ -38,7 +43,10 @@ learning:
   alpha: 0.6
 ```
 
-Take a look at config file in config folder
+***Take a look at config file in config folder.***
+
+The output of the program is 2 files in the output folder, which correspond to the used algorithm. It also prints the best policy
+and q-matrix or v-matrix
 
 # Simulation results
 
