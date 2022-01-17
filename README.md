@@ -1,10 +1,48 @@
 # User Guide
 
-# Explanation and structure
+Run next command to install dependencies in your environment:
+
+```bash
+   pip3 install -r requirements.txt
+```
+
+To run execute the following command:
+
+```bash
+   python3 main.py arg1 arg2
+```
+
+Where:
+   1. arg1 is the algorithm type: value_iteration(default), q_learning or sarsa
+   2. the yaml config file, if you don't want to apply the default config. The config must have this form:
+
+```yaml
+params:
+  b: 20
+  k: 3
+  d: 1
+  pa:
+    - 0.1
+    - 0.3
+    - 0.6
+  l: 2
+  cf: 1
+  ca: 1
+  cd: 1
+  ch: 1
+learning:
+  episodes: 5000
+  max_game_steps: 70
+  discount: 0.8
+  eps: 0.2
+  alpha: 0.6
+```
+
+Take a look at config file in config folder
 
 # Simulation results
 
-There is 3 algorithms of reinforcement learning that were impelemented: value_iteration, q_learning and sarsa. The considered system is a dynamic cloud ressources allocation. 
+There is 3 algorithms of reinforcement learning that were implemented: value_iteration, q_learning and sarsa. The considered system is a dynamic cloud ressources allocation. 
 
 ---
 
