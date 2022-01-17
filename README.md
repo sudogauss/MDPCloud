@@ -228,7 +228,136 @@ In state (20, 3) do: 3.0
   
 ### best policy
 
+In state (0, 1) do: 1.0
+
+In state (0, 2) do: 2.0
+
+In state (0, 3) do: 2.0
+
+In state (1, 1) do: 2.0
+
+In state (1, 2) do: 2.0
+
+In state (1, 3) do: 3.0
+
+In state (2, 1) do: 2.0
+
+In state (2, 2) do: 2.0
+
+In state (2, 3) do: 3.0
+
+In state (3, 1) do: 3.0
+
+In state (3, 2) do: 3.0
+
+In state (3, 3) do: 3.0
+
+In state (4, 1) do: 3.0
+
+In state (4, 2) do: 3.0
+
+In state (4, 3) do: 3.0
+
+In state (5, 1) do: 3.0
+
+In state (5, 2) do: 3.0
+
+In state (5, 3) do: 3.0
+
+In state (6, 1) do: 3.0
+
+In state (6, 2) do: 3.0
+
+In state (6, 3) do: 3.0
+
+In state (7, 1) do: 3.0
+
+In state (7, 2) do: 3.0
+
+In state (7, 3) do: 3.0
+
+In state (8, 1) do: 3.0
+
+In state (8, 2) do: 3.0
+
+In state (8, 3) do: 3.0
+
+In state (9, 1) do: 3.0
+
+In state (9, 2) do: 3.0
+
+In state (9, 3) do: 3.0
+
+In state (10, 1) do: 3.0
+
+In state (10, 2) do: 3.0
+
+In state (10, 3) do: 3.0
+
+In state (11, 1) do: 3.0
+
+In state (11, 2) do: 3.0
+
+In state (11, 3) do: 3.0
+
+In state (12, 1) do: 3.0
+
+In state (12, 2) do: 3.0
+
+In state (12, 3) do: 3.0
+
+In state (13, 1) do: 3.0
+
+In state (13, 2) do: 3.0
+
+In state (13, 3) do: 3.0
+
+In state (14, 1) do: 3.0
+
+In state (14, 2) do: 3.0
+
+In state (14, 3) do: 3.0
+
+In state (15, 1) do: 3.0
+
+In state (15, 2) do: 3.0
+
+In state (15, 3) do: 3.0
+
+In state (16, 1) do: 3.0
+
+In state (16, 2) do: 3.0
+
+In state (16, 3) do: 3.0
+
+In state (17, 1) do: 3.0
+
+In state (17, 2) do: 3.0
+
+In state (17, 3) do: 3.0
+
+In state (18, 1) do: 3.0
+
+In state (18, 2) do: 3.0
+
+In state (18, 3) do: 3.0
+
+In state (19, 1) do: 3.0
+
+In state (19, 2) do: 3.0
+
+In state (19, 3) do: 3.0
+
+In state (20, 1) do: 3.0
+
+In state (20, 2) do: 3.0
+
+In state (20, 3) do: 3.0
+
+
 ### plot
+
+![plot](./output/value_graph.png)
 
 </details>
 
@@ -380,7 +509,136 @@ In state (20, 3) do: 1
   
 ### best policy
 
+In state (0, 1) do: 2
+
+In state (0, 2) do: 2
+
+In state (0, 3) do: 2
+
+In state (1, 1) do: 2
+
+In state (1, 2) do: 2
+
+In state (1, 3) do: 3
+
+In state (2, 1) do: 3
+
+In state (2, 2) do: 3
+
+In state (2, 3) do: 2
+
+In state (3, 1) do: 2
+
+In state (3, 2) do: 3
+
+In state (3, 3) do: 2
+
+In state (4, 1) do: 2
+
+In state (4, 2) do: 2
+
+In state (4, 3) do: 2
+
+In state (5, 1) do: 1
+
+In state (5, 2) do: 2
+
+In state (5, 3) do: 2
+
+In state (6, 1) do: 1
+
+In state (6, 2) do: 1
+
+In state (6, 3) do: 1
+
+In state (7, 1) do: 1
+
+In state (7, 2) do: 3
+
+In state (7, 3) do: 1
+
+In state (8, 1) do: 2
+
+In state (8, 2) do: 3
+
+In state (8, 3) do: 1
+
+In state (9, 1) do: 2
+
+In state (9, 2) do: 1
+
+In state (9, 3) do: 1
+
+In state (10, 1) do: 2
+
+In state (10, 2) do: 1
+
+In state (10, 3) do: 3
+
+In state (11, 1) do: 3
+
+In state (11, 2) do: 1
+
+In state (11, 3) do: 1
+
+In state (12, 1) do: 3
+
+In state (12, 2) do: 2
+
+In state (12, 3) do: 2
+
+In state (13, 1) do: 1
+
+In state (13, 2) do: 1
+
+In state (13, 3) do: 2
+
+In state (14, 1) do: 1
+
+In state (14, 2) do: 2
+
+In state (14, 3) do: 1
+
+In state (15, 1) do: 1
+
+In state (15, 2) do: 3
+
+In state (15, 3) do: 3
+
+In state (16, 1) do: 2
+
+In state (16, 2) do: 3
+
+In state (16, 3) do: 2
+
+In state (17, 1) do: 1
+
+In state (17, 2) do: 3
+
+In state (17, 3) do: 2
+
+In state (18, 1) do: 2
+
+In state (18, 2) do: 2
+
+In state (18, 3) do: 2
+
+In state (19, 1) do: 1
+
+In state (19, 2) do: 3
+
+In state (19, 3) do: 3
+
+In state (20, 1) do: 2
+
+In state (20, 2) do: 2
+
+In state (20, 3) do: 1
+
+
 ### plot
+
+![plot](./output/q_learning_graph.png)
 
 </details>
 
@@ -532,6 +790,135 @@ In state (20, 3) do: 1
   
 ### best policy
 
+In state (0, 1) do: 2
+
+In state (0, 2) do: 2
+
+In state (0, 3) do: 2
+
+In state (1, 1) do: 1
+
+In state (1, 2) do: 2
+
+In state (1, 3) do: 2
+
+In state (2, 1) do: 2
+
+In state (2, 2) do: 3
+
+In state (2, 3) do: 3
+
+In state (3, 1) do: 3
+
+In state (3, 2) do: 3
+
+In state (3, 3) do: 2
+
+In state (4, 1) do: 3
+
+In state (4, 2) do: 3
+
+In state (4, 3) do: 2
+
+In state (5, 1) do: 2
+
+In state (5, 2) do: 2
+
+In state (5, 3) do: 1
+
+In state (6, 1) do: 2
+
+In state (6, 2) do: 3
+
+In state (6, 3) do: 1
+
+In state (7, 1) do: 3
+
+In state (7, 2) do: 3
+
+In state (7, 3) do: 1
+
+In state (8, 1) do: 2
+
+In state (8, 2) do: 1
+
+In state (8, 3) do: 1
+
+In state (9, 1) do: 2
+
+In state (9, 2) do: 3
+
+In state (9, 3) do: 2
+
+In state (10, 1) do: 2
+
+In state (10, 2) do: 1
+
+In state (10, 3) do: 3
+
+In state (11, 1) do: 3
+
+In state (11, 2) do: 1
+
+In state (11, 3) do: 3
+
+In state (12, 1) do: 3
+
+In state (12, 2) do: 2
+
+In state (12, 3) do: 3
+
+In state (13, 1) do: 3
+
+In state (13, 2) do: 2
+
+In state (13, 3) do: 1
+
+In state (14, 1) do: 2
+
+In state (14, 2) do: 3
+
+In state (14, 3) do: 1
+
+In state (15, 1) do: 1
+
+In state (15, 2) do: 3
+
+In state (15, 3) do: 3
+
+In state (16, 1) do: 1
+
+In state (16, 2) do: 2
+
+In state (16, 3) do: 2
+
+In state (17, 1) do: 1
+
+In state (17, 2) do: 2
+
+In state (17, 3) do: 3
+
+In state (18, 1) do: 2
+
+In state (18, 2) do: 1
+
+In state (18, 3) do: 2
+
+In state (19, 1) do: 1
+
+In state (19, 2) do: 2
+
+In state (19, 3) do: 1
+
+In state (20, 1) do: 3
+
+In state (20, 2) do: 1
+
+In state (20, 3) do: 1
+
+
 ### plot
+
+![plot](./output/sarsa_graph.png)
 
 </details>
