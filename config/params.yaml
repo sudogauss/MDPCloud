@@ -1,0 +1,19 @@
+params:
+  b: 20
+  k: 3
+  d: 1
+  pa:
+    - 0.1
+    - 0.3
+    - 0.6
+  l: 2
+  cf: 1
+  ca: 1
+  cd: 1
+  ch: 1
+learning:
+  episodes: 5000
+  max_game_steps: 70
+  discount: 0.8
+  eps: 0.2
+  alpha: 0.6
