@@ -60,6 +60,7 @@ if __name__ == "__main__":
             q = cloud_simulator.sarsa(100, plotter.update_graph, graph, 200, "output/sarsa_graph.png")
             pi = MDPCloud.get_best_policy(MDPCloud, q)
             cloud_simulator.show_best_policy(pi, "output/sarsa_policy.txt")
+            print(q)
         else:
             print("Not supported algorithm")
             print("Please choose between: value_iteration, q_learning and sarsa")
